@@ -19,30 +19,39 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Título do Projeto:
+🌍 300 Anos no Futuro: Uma Terra Devastada pelo Aquecimento Global
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+📒 Descrição
+Este projeto propõe uma representação visual do planeta Terra após 300 anos de aquecimento global descontrolado. A imagem mostra um cenário apocalíptico onde a natureza foi destruída, os oceanos secaram, e os vestígios da civilização moderna aparecem em ruínas. A intenção é provocar reflexão sobre os impactos das ações humanas no meio ambiente.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🤖 Tecnologias Utilizadas
+ChatGPT (OpenAI) – para criação do conceito, narrativa e descrição do cenário.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+DALL·E – para gerar a imagem visual a partir do prompt descritivo.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+🧐 Processo de Criação
+Defini o tema: aquecimento global extremo em um futuro distante.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Com o auxílio do ChatGPT, refinei uma descrição detalhada e visualmente impactante.
+
+Usei a IA DALL·E para gerar a imagem baseada na descrição:
+
+"Uma cidade devastada sob um céu alaranjado, com o sol queimando ao fundo. Árvores secas, prédios destruídos e um solo rachado compõem o cenário de um mundo pós-apocalíptico."
+
+Analisei o resultado e selecionei a imagem mais impactante.
+
+🚀 Resultados
+O resultado final é uma imagem visualmente poderosa que retrata um futuro sombrio. Ela foi utilizada para sensibilizar o público em sala de aula sobre a importância das ações sustentáveis no presente.
+
+💭 Reflexão (Opcional)
+Criar algo ‘naturalmente criativo’ com IA foi um desafio interessante. O equilíbrio entre comando humano e geração automática exigiu ajustes e sensibilidade. A IA é uma ferramenta potente, mas a direção criativa ainda é humana.
+
+https://drive.google.com/file/d/1xkJqFkv9TNG06VzZjA01-7TI3NsKmJbY/view?usp=drive_link
+
+
 
 ## Links Interessantes
 
